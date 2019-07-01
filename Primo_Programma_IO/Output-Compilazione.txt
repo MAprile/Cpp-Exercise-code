@@ -1,0 +1,5 @@
+﻿1>------ Inizio compilazione: Progetto: SizeOf, Configurazione: Debug Win32 ------
+1>pch.cpp
+1>SizeOf.cpp
+1>SizeOf.vcxproj -> C:\Users\manuel.aprile\Desktop\C++\Programmi\SizeOf\Debug\SizeOf.exe
+========== Compilazione: 1 completate, 0 non riuscite, 0 aggiornate, 0 ignorate ==========
